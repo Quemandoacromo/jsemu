@@ -182,7 +182,7 @@ adding them to the collection: the source for this page is available on
 - [FRISCjs](https://ivanzuzak.info/FRISCjs/webapp/) - an 8-register educational RISC from the University of Zagreb, with both assembler and front panel, by Ivan Žužak. [Source](https://github.com/izuzak/FRISCjs)
 - [Imaginary 6502](https://www.mdawson.net/asm6502/6502asm.php) - 6502 Emulator and Assembler
 - [Intel 4004 emulator](http://e4004.szyc.org/) - by Maciej Szyc. Includes assembler and disassembler.
-- [Intel 8080 CPU Emulator](https://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
+- [Intel 8080 CPU Emulator](https://st.sdf-eu.org/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
 - [iRISC](https://polysoftit.co.uk/irisc-web/) - Interactive ARMv7 assembly language interpreter and computer architecture simulator ([Source](https://github.com/rtybanana/irisc-web/))
 - [JavaScript 8080 Emulator](https://bluishcoder.co.nz/js8080/) - 8080 arcade game emulator in JavaScript
 - [Mipsdis](https://blog.loadzero.com/demo/mipsdis/demo.html) - MIPS disassembler that runs in the browser
